@@ -1,0 +1,67 @@
+# Data processing libraries
+pandas==2.2.2
+numpy==2.0.2
+
+# Visualization libraries
+seaborn==0.13.2
+matplotlib==3.10.0
+plotly==5.24.1
+
+# Machine learning and optimization libraries
+scikit-learn==1.6.1
+scipy==1.16.3
+xgboost==3.1.2
+
+# Oceanography calculations library
+gsw==3.6.20
+
+# Interpretability library
+shap==0.50.0
+
+##### Installation instructions: 
+
+# Step 1: Create virtual environment
+# python -m venv pHpred_env
+
+# Step 2: Activate virtual environment
+# On Windows:
+# pHpred_env\Scripts\activate
+# On macOS/Linux:
+# source pHpred_env/bin/activate
+
+# Step 3: Upgrade pip (optional but recommended)
+# pip install --upgrade pip
+
+# Step 4: Install required packages
+# pip install -r requirements.txt
+
+# Step 5: Verify installation (optional)
+# python -c "import pandas, numpy, seaborn, matplotlib, plotly, sklearn, scipy, xgboost, gsw, shap; print('All packages installed successfully!')"
+
+# Step 6: Deactivate virtual environment when done
+# deactivate
+
+## On Google Collab:
+
+# Step 1: Upload requirements.txt to each notebook environment
+
+# Step 2: Install all packages listed in requirements.txt
+#!pip install -r requirements.txt
+
+## Installing without requirements.txt:
+
+# You can also install the packages directly:
+
+# Data processing libraries
+!pip install pandas==2.2.2 numpy==2.0.2
+# Visualization libraries
+!pip install seaborn==0.13.2 matplotlib==3.10.0 plotly==5.24.1
+# Machine learning and optimization libraries
+!pip install scikit-learn==1.6.1 scipy==1.16.3 xgboost==3.1.2
+# Oceanography calculations library
+!pip install gsw==3.6.20
+# Interpretability library
+!pip install shap==0.50.0
+
+
+
