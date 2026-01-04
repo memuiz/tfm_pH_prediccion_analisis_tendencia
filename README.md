@@ -73,8 +73,8 @@ tfm_pH_prediccion_analisis_tendencia/
 ├── 🗂️ Preprocesado                         # Notebooks for data preprocessing and merging
 ├── 🗂️ Clustering masas de agua                   # Notebook for water mass clustering (classification of water masses with GMM and geometric method)         
 ├── 🗂️ Prediccion pH                           # Notebook for pH prediction using ML, validation and interpretability
-├──  🗂️ Analisis tendencia                          # Notebook for time series decomposition and trend analysis
-├──  Interactive_html                          #  HTML visualizations of the results of the water mass clustering
+├── 🗂️ Analisis tendencia                          # Notebook for time series decomposition and trend analysis
+├── 🗂️  Interactive_html                          #  HTML visualizations of the results of the water mass clustering
 ```
 
 ## Preprocessing
