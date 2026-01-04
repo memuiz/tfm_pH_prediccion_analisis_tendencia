@@ -74,7 +74,7 @@ pH-prediction-per-water-mass-and-trend-analysis/
 ├── 🗂️ water_mass_clustering                   # Notebook for water mass clustering (classification of water masses with GMM and geometric method)
       └── 🗂️interactive_html                   #  HTML visualizations of the results
 ├── 🗂️ pH_prediction                           # Notebook for pH prediction using ML, validation and interpretability
-├──  🗂️ Trend_analysis                          # Notebook for time series decomposition and trend analysis
+├──  🗂️ Analisis tendencia                          # Notebook for time series decomposition and trend analysis
 ```
 
 ## Preprocessing
