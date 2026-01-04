@@ -67,7 +67,7 @@ This project focuses on reconstructing pH time series in the Balearic Sea and es
 # 📁 Code and project structure
 
 ```markdown
-pH-prediction-per-water-mass-and-trend-analysis/
+tfm_pH_prediccion_analisis_tendencia/
 ├── 📝 README.md                                # Project documentation
 ├── 📄 requirements.txt                         # Dependencies list
 ├── 🗂️ Preprocesado                         # Notebooks for data preprocessing and merging
